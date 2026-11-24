@@ -1,0 +1,1912 @@
+{
+  "1": {
+    "area_id": 1,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.773797,
+    "dist_to_second": 2.715083,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "2": {
+    "area_id": 2,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.773797,
+    "dist_to_second": 2.715083,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "3": {
+    "area_id": 3,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.773797,
+    "dist_to_second": 2.715083,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "4": {
+    "area_id": 4,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.773797,
+    "dist_to_second": 2.715083,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "7": {
+    "area_id": 7,
+    "cluster_id": 2,
+    "zone_key": "high",
+    "zone_label": "Zona Subur Tinggi",
+    "dist_to_centroid": 1.353571,
+    "dist_to_second": 2.961863,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "8": {
+    "area_id": 8,
+    "cluster_id": 2,
+    "zone_key": "high",
+    "zone_label": "Zona Subur Tinggi",
+    "dist_to_centroid": 1.353571,
+    "dist_to_second": 2.961863,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "9": {
+    "area_id": 9,
+    "cluster_id": 2,
+    "zone_key": "high",
+    "zone_label": "Zona Subur Tinggi",
+    "dist_to_centroid": 1.353571,
+    "dist_to_second": 2.961863,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "10": {
+    "area_id": 10,
+    "cluster_id": 2,
+    "zone_key": "high",
+    "zone_label": "Zona Subur Tinggi",
+    "dist_to_centroid": 1.353571,
+    "dist_to_second": 2.961863,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "11": {
+    "area_id": 11,
+    "cluster_id": 2,
+    "zone_key": "high",
+    "zone_label": "Zona Subur Tinggi",
+    "dist_to_centroid": 1.353571,
+    "dist_to_second": 2.961863,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "12": {
+    "area_id": 12,
+    "cluster_id": 2,
+    "zone_key": "high",
+    "zone_label": "Zona Subur Tinggi",
+    "dist_to_centroid": 1.353571,
+    "dist_to_second": 2.961863,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "13": {
+    "area_id": 13,
+    "cluster_id": 2,
+    "zone_key": "high",
+    "zone_label": "Zona Subur Tinggi",
+    "dist_to_centroid": 1.353571,
+    "dist_to_second": 2.961863,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "14": {
+    "area_id": 14,
+    "cluster_id": 2,
+    "zone_key": "high",
+    "zone_label": "Zona Subur Tinggi",
+    "dist_to_centroid": 1.353571,
+    "dist_to_second": 2.961863,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "15": {
+    "area_id": 15,
+    "cluster_id": 2,
+    "zone_key": "high",
+    "zone_label": "Zona Subur Tinggi",
+    "dist_to_centroid": 1.353571,
+    "dist_to_second": 2.961863,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "16": {
+    "area_id": 16,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.809655,
+    "dist_to_second": 2.478438,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "17": {
+    "area_id": 17,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "18": {
+    "area_id": 18,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "19": {
+    "area_id": 19,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "20": {
+    "area_id": 20,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "21": {
+    "area_id": 21,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "22": {
+    "area_id": 22,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "23": {
+    "area_id": 23,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "24": {
+    "area_id": 24,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "25": {
+    "area_id": 25,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "26": {
+    "area_id": 26,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "27": {
+    "area_id": 27,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "28": {
+    "area_id": 28,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "29": {
+    "area_id": 29,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "30": {
+    "area_id": 30,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "31": {
+    "area_id": 31,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "32": {
+    "area_id": 32,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "33": {
+    "area_id": 33,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "34": {
+    "area_id": 34,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "35": {
+    "area_id": 35,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.147513,
+    "dist_to_second": 1.434508,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "36": {
+    "area_id": 36,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "37": {
+    "area_id": 37,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "38": {
+    "area_id": 38,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "39": {
+    "area_id": 39,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "40": {
+    "area_id": 40,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "41": {
+    "area_id": 41,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "42": {
+    "area_id": 42,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "43": {
+    "area_id": 43,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "44": {
+    "area_id": 44,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "45": {
+    "area_id": 45,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "46": {
+    "area_id": 46,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "47": {
+    "area_id": 47,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "48": {
+    "area_id": 48,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "49": {
+    "area_id": 49,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "50": {
+    "area_id": 50,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "51": {
+    "area_id": 51,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "52": {
+    "area_id": 52,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "53": {
+    "area_id": 53,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "54": {
+    "area_id": 54,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "55": {
+    "area_id": 55,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.114662,
+    "dist_to_second": 1.443336,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "56": {
+    "area_id": 56,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.114662,
+    "dist_to_second": 1.443336,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "57": {
+    "area_id": 57,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.114662,
+    "dist_to_second": 1.443336,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "58": {
+    "area_id": 58,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.114662,
+    "dist_to_second": 1.443336,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "59": {
+    "area_id": 59,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.114662,
+    "dist_to_second": 1.443336,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "60": {
+    "area_id": 60,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.114662,
+    "dist_to_second": 1.443336,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "61": {
+    "area_id": 61,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.114662,
+    "dist_to_second": 1.443336,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "62": {
+    "area_id": 62,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.114662,
+    "dist_to_second": 1.443336,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "63": {
+    "area_id": 63,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.700076,
+    "dist_to_second": 2.033141,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "64": {
+    "area_id": 64,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.700076,
+    "dist_to_second": 2.033141,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "65": {
+    "area_id": 65,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.700076,
+    "dist_to_second": 2.033141,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "66": {
+    "area_id": 66,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.700076,
+    "dist_to_second": 2.033141,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "67": {
+    "area_id": 67,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.700076,
+    "dist_to_second": 2.033141,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "68": {
+    "area_id": 68,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.700076,
+    "dist_to_second": 2.033141,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "69": {
+    "area_id": 69,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.700076,
+    "dist_to_second": 2.033141,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "70": {
+    "area_id": 70,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.700076,
+    "dist_to_second": 2.033141,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "71": {
+    "area_id": 71,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.700076,
+    "dist_to_second": 2.033141,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "72": {
+    "area_id": 72,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.700076,
+    "dist_to_second": 2.033141,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "73": {
+    "area_id": 73,
+    "cluster_id": 2,
+    "zone_key": "high",
+    "zone_label": "Zona Subur Tinggi",
+    "dist_to_centroid": 7.253477,
+    "dist_to_second": 8.006591,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "74": {
+    "area_id": 74,
+    "cluster_id": 2,
+    "zone_key": "high",
+    "zone_label": "Zona Subur Tinggi",
+    "dist_to_centroid": 7.253477,
+    "dist_to_second": 8.006591,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "75": {
+    "area_id": 75,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 2.342697,
+    "dist_to_second": 3.105495,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "76": {
+    "area_id": 76,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.411821,
+    "dist_to_second": 2.026892,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "77": {
+    "area_id": 77,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.411821,
+    "dist_to_second": 2.026892,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "78": {
+    "area_id": 78,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.411821,
+    "dist_to_second": 2.026892,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "79": {
+    "area_id": 79,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.411821,
+    "dist_to_second": 2.026892,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "80": {
+    "area_id": 80,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.567917,
+    "dist_to_second": 1.808906,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "81": {
+    "area_id": 81,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.567917,
+    "dist_to_second": 1.808906,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "82": {
+    "area_id": 82,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.567917,
+    "dist_to_second": 1.808906,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "83": {
+    "area_id": 83,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.567917,
+    "dist_to_second": 1.808906,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "84": {
+    "area_id": 84,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.567917,
+    "dist_to_second": 1.808906,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "85": {
+    "area_id": 85,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.567917,
+    "dist_to_second": 1.808906,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "86": {
+    "area_id": 86,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.567917,
+    "dist_to_second": 1.808906,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "87": {
+    "area_id": 87,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 2.63657,
+    "dist_to_second": 3.202454,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "88": {
+    "area_id": 88,
+    "cluster_id": 2,
+    "zone_key": "high",
+    "zone_label": "Zona Subur Tinggi",
+    "dist_to_centroid": 4.383464,
+    "dist_to_second": 7.695168,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "89": {
+    "area_id": 89,
+    "cluster_id": 2,
+    "zone_key": "high",
+    "zone_label": "Zona Subur Tinggi",
+    "dist_to_centroid": 4.383464,
+    "dist_to_second": 7.695168,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "90": {
+    "area_id": 90,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.750647,
+    "dist_to_second": 2.389105,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "91": {
+    "area_id": 91,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.750647,
+    "dist_to_second": 2.389105,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "92": {
+    "area_id": 92,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.750647,
+    "dist_to_second": 2.389105,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "93": {
+    "area_id": 93,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.750647,
+    "dist_to_second": 2.389105,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "94": {
+    "area_id": 94,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.750647,
+    "dist_to_second": 2.389105,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "95": {
+    "area_id": 95,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.021743,
+    "dist_to_second": 2.655225,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "96": {
+    "area_id": 96,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.411821,
+    "dist_to_second": 2.026892,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "97": {
+    "area_id": 97,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 2.009105,
+    "dist_to_second": 3.563456,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "98": {
+    "area_id": 98,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 2.009105,
+    "dist_to_second": 3.563456,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "99": {
+    "area_id": 99,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 2.009105,
+    "dist_to_second": 3.563456,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "100": {
+    "area_id": 100,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 2.009105,
+    "dist_to_second": 3.563456,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "101": {
+    "area_id": 101,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.6867,
+    "dist_to_second": 2.368461,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "102": {
+    "area_id": 102,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.6867,
+    "dist_to_second": 2.368461,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "103": {
+    "area_id": 103,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.6867,
+    "dist_to_second": 2.368461,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "104": {
+    "area_id": 104,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.6867,
+    "dist_to_second": 2.368461,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "105": {
+    "area_id": 105,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.531412,
+    "dist_to_second": 3.178604,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "106": {
+    "area_id": 106,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.707352,
+    "dist_to_second": 1.940675,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "107": {
+    "area_id": 107,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.707352,
+    "dist_to_second": 1.940675,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "108": {
+    "area_id": 108,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.707352,
+    "dist_to_second": 1.940675,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "109": {
+    "area_id": 109,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.707352,
+    "dist_to_second": 1.940675,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "110": {
+    "area_id": 110,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.707352,
+    "dist_to_second": 1.940675,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "111": {
+    "area_id": 111,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.707352,
+    "dist_to_second": 1.940675,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "112": {
+    "area_id": 112,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 3.957715,
+    "dist_to_second": 5.879562,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "113": {
+    "area_id": 113,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.390307,
+    "dist_to_second": 1.682583,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "114": {
+    "area_id": 114,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.390307,
+    "dist_to_second": 1.682583,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "115": {
+    "area_id": 115,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.390307,
+    "dist_to_second": 1.682583,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "116": {
+    "area_id": 116,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.390307,
+    "dist_to_second": 1.682583,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "117": {
+    "area_id": 117,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.390307,
+    "dist_to_second": 1.682583,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "118": {
+    "area_id": 118,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.390307,
+    "dist_to_second": 1.682583,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "119": {
+    "area_id": 119,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.303428,
+    "dist_to_second": 2.398062,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "120": {
+    "area_id": 120,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.303428,
+    "dist_to_second": 2.398062,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "121": {
+    "area_id": 121,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.126342,
+    "dist_to_second": 1.80623,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "122": {
+    "area_id": 122,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.126342,
+    "dist_to_second": 1.80623,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "123": {
+    "area_id": 123,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.126342,
+    "dist_to_second": 1.80623,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "124": {
+    "area_id": 124,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.126342,
+    "dist_to_second": 1.80623,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "125": {
+    "area_id": 125,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.631453,
+    "dist_to_second": 2.48558,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "126": {
+    "area_id": 126,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.631453,
+    "dist_to_second": 2.48558,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "127": {
+    "area_id": 127,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.72249,
+    "dist_to_second": 1.320279,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "128": {
+    "area_id": 128,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.72249,
+    "dist_to_second": 1.320279,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "129": {
+    "area_id": 129,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.76566,
+    "dist_to_second": 1.870422,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "130": {
+    "area_id": 130,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.010339,
+    "dist_to_second": 1.967958,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "131": {
+    "area_id": 131,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.010339,
+    "dist_to_second": 1.967958,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "132": {
+    "area_id": 132,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.010339,
+    "dist_to_second": 1.967958,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "133": {
+    "area_id": 133,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.010339,
+    "dist_to_second": 1.967958,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "134": {
+    "area_id": 134,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.010339,
+    "dist_to_second": 1.967958,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "135": {
+    "area_id": 135,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.250596,
+    "dist_to_second": 2.681694,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "136": {
+    "area_id": 136,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.250596,
+    "dist_to_second": 2.681694,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "137": {
+    "area_id": 137,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.250596,
+    "dist_to_second": 2.681694,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "138": {
+    "area_id": 138,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.250596,
+    "dist_to_second": 2.681694,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "139": {
+    "area_id": 139,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.250596,
+    "dist_to_second": 2.681694,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "140": {
+    "area_id": 140,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.250596,
+    "dist_to_second": 2.681694,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "141": {
+    "area_id": 141,
+    "cluster_id": 2,
+    "zone_key": "high",
+    "zone_label": "Zona Subur Tinggi",
+    "dist_to_centroid": 3.25371,
+    "dist_to_second": 5.548992,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "142": {
+    "area_id": 142,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.199845,
+    "dist_to_second": 2.218093,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "143": {
+    "area_id": 143,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.199845,
+    "dist_to_second": 2.218093,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "144": {
+    "area_id": 144,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.733761,
+    "dist_to_second": 2.391918,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "145": {
+    "area_id": 145,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.733761,
+    "dist_to_second": 2.391918,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "146": {
+    "area_id": 146,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.733761,
+    "dist_to_second": 2.391918,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "147": {
+    "area_id": 147,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.996476,
+    "dist_to_second": 2.063207,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "148": {
+    "area_id": 148,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.424375,
+    "dist_to_second": 2.372034,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "149": {
+    "area_id": 149,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.424375,
+    "dist_to_second": 2.372034,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "150": {
+    "area_id": 150,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.424375,
+    "dist_to_second": 2.372034,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "151": {
+    "area_id": 151,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.424375,
+    "dist_to_second": 2.372034,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "152": {
+    "area_id": 152,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.424375,
+    "dist_to_second": 2.372034,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "153": {
+    "area_id": 153,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.424375,
+    "dist_to_second": 2.372034,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "154": {
+    "area_id": 154,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.424375,
+    "dist_to_second": 2.372034,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "155": {
+    "area_id": 155,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.424375,
+    "dist_to_second": 2.372034,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "156": {
+    "area_id": 156,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.735941,
+    "dist_to_second": 1.679885,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "157": {
+    "area_id": 157,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.735941,
+    "dist_to_second": 1.679885,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "158": {
+    "area_id": 158,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.735941,
+    "dist_to_second": 1.679885,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "159": {
+    "area_id": 159,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.735941,
+    "dist_to_second": 1.679885,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "160": {
+    "area_id": 160,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.226522,
+    "dist_to_second": 1.888333,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "161": {
+    "area_id": 161,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.277575,
+    "dist_to_second": 3.01396,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "162": {
+    "area_id": 162,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.643714,
+    "dist_to_second": 3.033501,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "163": {
+    "area_id": 163,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.643714,
+    "dist_to_second": 3.033501,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "164": {
+    "area_id": 164,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.643714,
+    "dist_to_second": 3.033501,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "165": {
+    "area_id": 165,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 2.791473,
+    "dist_to_second": 3.12155,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "166": {
+    "area_id": 166,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 2.791473,
+    "dist_to_second": 3.12155,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "167": {
+    "area_id": 167,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 2.791473,
+    "dist_to_second": 3.12155,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "168": {
+    "area_id": 168,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.857103,
+    "dist_to_second": 2.407453,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "169": {
+    "area_id": 169,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.857103,
+    "dist_to_second": 2.407453,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "170": {
+    "area_id": 170,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.857103,
+    "dist_to_second": 2.407453,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "171": {
+    "area_id": 171,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.857103,
+    "dist_to_second": 2.407453,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "172": {
+    "area_id": 172,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.857103,
+    "dist_to_second": 2.407453,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "173": {
+    "area_id": 173,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.857103,
+    "dist_to_second": 2.407453,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "174": {
+    "area_id": 174,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.293681,
+    "dist_to_second": 1.580497,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "175": {
+    "area_id": 175,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.293681,
+    "dist_to_second": 1.580497,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "176": {
+    "area_id": 176,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.293681,
+    "dist_to_second": 1.580497,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "177": {
+    "area_id": 177,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.277575,
+    "dist_to_second": 3.01396,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "179": {
+    "area_id": 179,
+    "cluster_id": 2,
+    "zone_key": "high",
+    "zone_label": "Zona Subur Tinggi",
+    "dist_to_centroid": 1.353571,
+    "dist_to_second": 2.961863,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "180": {
+    "area_id": 180,
+    "cluster_id": 2,
+    "zone_key": "high",
+    "zone_label": "Zona Subur Tinggi",
+    "dist_to_centroid": 1.353571,
+    "dist_to_second": 2.961863,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "181": {
+    "area_id": 181,
+    "cluster_id": 2,
+    "zone_key": "high",
+    "zone_label": "Zona Subur Tinggi",
+    "dist_to_centroid": 1.353571,
+    "dist_to_second": 2.961863,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "182": {
+    "area_id": 182,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "183": {
+    "area_id": 183,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.654396,
+    "dist_to_second": 2.501008,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "184": {
+    "area_id": 184,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.700076,
+    "dist_to_second": 2.033141,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "185": {
+    "area_id": 185,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.700076,
+    "dist_to_second": 2.033141,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "186": {
+    "area_id": 186,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 2.63657,
+    "dist_to_second": 3.202454,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "187": {
+    "area_id": 187,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 0.6867,
+    "dist_to_second": 2.368461,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "188": {
+    "area_id": 188,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 1.531412,
+    "dist_to_second": 3.178604,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "189": {
+    "area_id": 189,
+    "cluster_id": 0,
+    "zone_key": "medium",
+    "zone_label": "Zona Subur Sedang",
+    "dist_to_centroid": 0.958939,
+    "dist_to_second": 2.26974,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "190": {
+    "area_id": 190,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.250596,
+    "dist_to_second": 2.681694,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "191": {
+    "area_id": 191,
+    "cluster_id": 1,
+    "zone_key": "low",
+    "zone_label": "Zona Subur Rendah",
+    "dist_to_centroid": 1.199845,
+    "dist_to_second": 2.218093,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "5": {
+    "area_id": 5,
+    "cluster_id": -1,
+    "zone_key": "unknown",
+    "zone_label": "Tidak Diketahui / Data Kurang",
+    "dist_to_centroid": null,
+    "dist_to_second": null,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "6": {
+    "area_id": 6,
+    "cluster_id": -1,
+    "zone_key": "unknown",
+    "zone_label": "Tidak Diketahui / Data Kurang",
+    "dist_to_centroid": null,
+    "dist_to_second": null,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  },
+  "178": {
+    "area_id": 178,
+    "cluster_id": -1,
+    "zone_key": "unknown",
+    "zone_label": "Tidak Diketahui / Data Kurang",
+    "dist_to_centroid": null,
+    "dist_to_second": null,
+    "model_version": "kmeans-v1.0.0",
+    "trained_at": "2026-11-24T05:51:34.076607+00:00"
+  }
+}

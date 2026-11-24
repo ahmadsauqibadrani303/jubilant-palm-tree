@@ -1,0 +1,141 @@
+{
+  "model_version": "kmeans-v1.0.0",
+  "algorithm": "KMeans",
+  "k": 3,
+  "random_state": 42,
+  "trained_at": "2026-11-24T05:51:34.076607+00:00",
+  "features": [
+    "ph_rata2",
+    "n_rata2",
+    "p_rata2",
+    "k_rata2"
+  ],
+  "transformations": {
+    "k_rata2": "np.log1p",
+    "scaling": "StandardScaler"
+  },
+  "dataset": {
+    "source": "hara-bogor.geojson",
+    "total_areas": 191,
+    "valid_areas": 188,
+    "excluded_count": 3,
+    "excluded_areas": [
+      {
+        "area_id": 5,
+        "name": "Water",
+        "reason": "Name 'Water' matches excluded no-data categories; pH contains sentinel value (-9999.0); N contains sentinel value (-9999.0); P contains sentinel value (-9999.0); K contains sentinel value (-9999.0)"
+      },
+      {
+        "area_id": 6,
+        "name": "Water",
+        "reason": "Name 'Water' matches excluded no-data categories; pH contains sentinel value (-9999.0); N contains sentinel value (-9999.0); P contains sentinel value (-9999.0); K contains sentinel value (-9999.0)"
+      },
+      {
+        "area_id": 178,
+        "name": "No Data",
+        "reason": "Name 'No Data' matches excluded no-data categories; pH contains sentinel value (-9999.0); N contains sentinel value (-9999.0); P contains sentinel value (-9999.0); K contains sentinel value (-9999.0)"
+      }
+    ]
+  },
+  "metrics": {
+    "silhouette": 0.3868,
+    "davies_bouldin": 1.0278,
+    "inertia": 409.6721
+  },
+  "k4_comparison": {
+    "k_3": {
+      "k": 3,
+      "silhouette": 0.3868,
+      "davies_bouldin": 1.0278,
+      "inertia": 409.6721,
+      "cluster_counts": {
+        "0": 60,
+        "1": 111,
+        "2": 17
+      }
+    },
+    "k_4": {
+      "k": 4,
+      "silhouette": 0.4057,
+      "davies_bouldin": 0.7697,
+      "inertia": 291.3954,
+      "cluster_counts": {
+        "0": 92,
+        "1": 15,
+        "2": 2,
+        "3": 79
+      }
+    }
+  },
+  "clusters": [
+    {
+      "cluster_id": 2,
+      "rank": 0,
+      "zone_key": "high",
+      "zone_label": "Zona Subur Tinggi",
+      "fertility_index": 0.7302,
+      "count": 17,
+      "centroid_original": {
+        "ph": 4.75,
+        "n": 9.28,
+        "p": 41.07,
+        "k": 405.14
+      },
+      "centroid_scaled": {
+        "ph": -1.4488,
+        "n": 1.0858,
+        "p": 2.5373,
+        "k_log1p": 0.7464
+      }
+    },
+    {
+      "cluster_id": 0,
+      "rank": 1,
+      "zone_key": "medium",
+      "zone_label": "Zona Subur Sedang",
+      "fertility_index": 0.3336,
+      "count": 60,
+      "centroid_original": {
+        "ph": 5.67,
+        "n": 2.93,
+        "p": 9.36,
+        "k": 459.3
+      },
+      "centroid_scaled": {
+        "ph": 0.8599,
+        "n": -0.3245,
+        "p": -0.1553,
+        "k_log1p": 0.9542
+      }
+    },
+    {
+      "cluster_id": 1,
+      "rank": 2,
+      "zone_key": "low",
+      "zone_label": "Zona Subur Rendah",
+      "fertility_index": -0.2921,
+      "count": 111,
+      "centroid_original": {
+        "ph": 5.23,
+        "n": 4.43,
+        "p": 7.6,
+        "k": 176.26
+      },
+      "centroid_scaled": {
+        "ph": -0.2429,
+        "n": 0.0091,
+        "p": -0.3047,
+        "k_log1p": -0.6301
+      }
+    }
+  ],
+  "assumptions": [
+    "ASSUMPTION: K is log1p-transformed prior to StandardScaler due to extreme positive skewness (range 75 - 3139).",
+    "ASSUMPTION: Slope and texture are excluded from clustering to represent intrinsic chemical soil fertility; they are applied during suitability evaluation.",
+    "ASSUMPTION: Zone sorting is determined by centroid fertility index (average z-score across standardized pH, N, P, K)."
+  ],
+  "expert_todos": [
+    "TODO(expert): Validate cluster centroid boundaries against regional agronomic benchmarks for Bogor.",
+    "TODO(expert): Calibrate fertilizer dosages per zone once laboratory soil test data is integrated."
+  ]
+}
