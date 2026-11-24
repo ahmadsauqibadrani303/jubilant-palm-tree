@@ -23,7 +23,7 @@ __pycache__/
 *.py[cod]
 *.sqlite3
 *.db
-safrons.db
+!backend/safrons.db
 .pytest_cache/
 .ruff_cache/
 .mypy_cache/
