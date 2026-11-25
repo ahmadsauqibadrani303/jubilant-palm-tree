@@ -6,7 +6,7 @@ export const apiClient = axios.create({
       ? import.meta.env.VITE_API_URL
       : (import.meta.env.DEV
           ? 'http://127.0.0.1:8000'
-          : 'https://giving-redhead-relay-converted.trycloudflare.com'),
+          : 'https://secondary-only-watch-christmas.trycloudflare.com'),
   headers: {
     'Content-Type': 'application/json',
   },
